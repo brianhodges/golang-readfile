@@ -1,5 +1,5 @@
 # Read Local .csv File (Go)
-Just a reference for myself to refer back to when working on future Go projects. Reads in local CSV file.
+Just a reference for myself to refer back to when working on future GoLang projects. Reads in local CSV file.
 
 # Setup
 *To Run:*
